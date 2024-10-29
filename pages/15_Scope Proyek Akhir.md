@@ -13,4 +13,5 @@ layout: intro
 <span class='text-orange'>6.</span> Mengimplementasikan Autentikasi. <br>
 <span class='text-orange'>7.</span> Aplikasi mengimplementasikan CRUD. <br>
 <span class='text-orange'>8.</span> Gunakan modularitas pada sturktur kode, misalkan class Mahasiswa dan Dosen dipisahkan. <br>
+<span class='text-orange'>9.</span> Interface yang menarik menjadi nilai tambahan <br><span class='text-orange'>10.</span> Anggota maksimum 3 orang dalam 1 kelompok. 2 diperbolehkan <br>
 </div>
