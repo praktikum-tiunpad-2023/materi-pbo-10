@@ -10,14 +10,14 @@ class: text-center
 
 #### Kelas A:
 
-21 November 2022, 23:59 WIB
+20 November 2024, 23:59 WIB
 
 </div>
 <div>
 
 #### Kelas B:
 
-22 November 2022, 23:59 WIB
+19 November 2024, 23:59 WIB
 
 </div>
 </div>
